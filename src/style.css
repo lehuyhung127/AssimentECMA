@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #0F1624;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu--link:hover {
+    color: gray;
+    text-decoration: underline;
+}
