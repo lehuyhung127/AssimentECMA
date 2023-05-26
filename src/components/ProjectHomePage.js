@@ -1,7 +1,7 @@
 export const ProjectHomePage = () => {
-    return `
+  return `
     <div class="projects">
-        <h2 class="projects--title mb-[50px] ml-[100px] not-italic font-semibold text-[35px] leading-4	text-white">Projects</h2>
+        <h2 class="projects--title mb-[50px] ml-[100px] not-italic font-semibold text-[35px] leading-4	text-white">PROJECT</h2>
         <div class="projects--items abc ">
           <div class="project--item">
             <div class="project--image">
@@ -82,5 +82,5 @@ export const ProjectHomePage = () => {
           </div>
         </div>
       </div>
-    `
-}
+    `;
+};

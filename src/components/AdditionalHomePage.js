@@ -1,8 +1,12 @@
 export const AdditionalHomePage = () => {
     return `
     <div class="additional technologies">
-        <h2 class="projects--title mt-[150px]">Additional technologies and skills</h2>
-        <div class="abc">
+    <div class=" text-center my-24">
+        <h2 class="page-section__title text-white text-[35px]">ADDITIONAL TECHNOLOGIES AND SKILLS</h2>
+        <div class="page-section__img flex justify-center my-3">
+        <img src="../../public/image/title-style.png" alt="" />
+        </div>
+        <div class="abc mt-8">
           <div class="additional--technologies--skills flex justify-around">
             <ul class="skills--list">
               <li>Git</li>

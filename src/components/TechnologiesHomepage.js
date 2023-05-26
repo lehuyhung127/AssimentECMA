@@ -1,7 +1,11 @@
 export const Technologies = () => {
     return `
     <div class="technologies mt-[200px]">
-        <h2 class="projects--title mb-[50px]">Technologies</h2>
+    <div class=" text-center mb-8">
+    <h2 class="page-section__title text-white text-[35px]">TECHNOLOGIES</h2>
+    <div class="page-section__img flex justify-center my-3">
+      <img src="../../public/image/title-style.png" alt="" />
+    </div>
         <div class="abc">
           <div class="technologies--skills">
             <div class="technologies--skills--items">
