@@ -4,7 +4,7 @@ export const Technologies = () => {
     <div class=" text-center mb-8">
     <h2 class="page-section__title text-white text-[35px]">TECHNOLOGIES</h2>
     <div class="page-section__img flex justify-center my-3">
-      <img src="../../public/image/title-style.png" alt="" />
+      <img src="./image/title-style.png" alt="" />
     </div>
         <div class="abc">
           <div class="technologies--skills">

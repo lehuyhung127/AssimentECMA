@@ -11,7 +11,7 @@ export const SectionLoremHomepage = () => {
             UI/UX DESIGNER - WEB DEVELOPER - PHOTOGRAPHAR
             </p>
             <div class="btn__letbegin text-center">
-              <a href="" class="btn--primary btn-3 py-3 px-10 border-none rounded-full">HAVE PROJECT? LET'S TALK</a>
+              <a href="/contact" class="btn--primary btn-3 py-3 px-10 border-none rounded-full">HAVE PROJECT? LET'S TALK</a>
             </div>
           </div>
           <div class="lorem--ispum--hiddenpicture">
