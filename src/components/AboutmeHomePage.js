@@ -5,7 +5,7 @@ export const AboumeHompe = () => {
     <div class=" text-center ">
       <h2 class="page-section__title text-white text-[35px]">ABOUT ME</h2>
       <div class="page-section__img flex justify-center my-3">
-        <img src="../../public/image/title-style.png" alt="" />
+        <img src="./image/title-style.png" alt="" />
       </div>
       <p class="page-section__desc text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>

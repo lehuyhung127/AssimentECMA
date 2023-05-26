@@ -4,7 +4,7 @@ export const AdditionalHomePage = () => {
     <div class=" text-center my-24">
         <h2 class="page-section__title text-white text-[35px]">ADDITIONAL TECHNOLOGIES AND SKILLS</h2>
         <div class="page-section__img flex justify-center my-3">
-        <img src="../../public/image/title-style.png" alt="" />
+        <img src="./image/title-style.png" alt="" />
         </div>
         <div class="abc mt-8">
           <div class="additional--technologies--skills flex justify-around">

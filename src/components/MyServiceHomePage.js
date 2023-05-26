@@ -6,7 +6,7 @@ export const MyService = () => {
         <div class=" text-center my-24">
         <h2 class="page-section__title text-white text-[35px]">MY SERVICE</h2>
         <div class="page-section__img flex justify-center my-3">
-        <img src="../../public/image/title-style.png" alt="" />
+        <img src="./image/title-style.png" alt="" />
         </div>
         
         <div class=" abc my-service grid grid-cols-3 gap-8 text-white">
