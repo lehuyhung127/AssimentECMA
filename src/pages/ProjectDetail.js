@@ -18,7 +18,7 @@ const ProjectDetail = (id) => {
                 <h1 class=" text-center text-[20px] mb-2">${projects.title}</h1>
                 <p>- ${projects.info}</p>
                 <p>- Các cộng nghệ: ${projects.technologies}</p>
-                <div class="mt-4"><a href="/..." class="btn--project py-[10px] px-[30px] rounded-full boder-none text-white " style=" background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);">Xem chi tiết</a></div>
+                <div class="mt-4"><a href="/..." class="btn--project btn-3 py-[10px] px-[30px] rounded-full boder-none text-white " style=" background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);">Xem chi tiết</a></div>
                 
             </div>
         </div>
