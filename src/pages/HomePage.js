@@ -25,18 +25,18 @@ import { dataHomePage } from "../dataProjectHomePage";
             return `
             <div class="projet--item text-white border-2 border-solid border-white " style="border-radius:  30px 1px;">
                 <div class="project--image p-5 containerimg">
-                    <img srcset="${dataHomePage.img} 2x" alt="" class="image imgfluid" />
+                    <img srcset="${dataHomePage.img} 2x" alt="" class="image imgfluid" style="height:300px"/>
                     <div class="middle">
-                    <div class="text">Review</div>
+                    <a href="/projects/${dataHomePage.id}" class="text">Review</a>
                   </div>
                 </div>
-                <a href="" class="project--link no-underline text-white">
-                    <h3 class="project--name text-center font-semibold	text-[25px] uppercase">${dataHomePage.title}</h3></a
+                <div class="project--link no-underline text-white text-center">
+                    <a href="/projects/${dataHomePage.id}" class="project--name text-center font-semibold	text-[25px] uppercase">${dataHomePage.title}</a></div
                 >
                 <p class="project--desc px-5">${dataHomePage.content}
                 </p>
                 <div class="btn__subkey my-5 ml-8 ">
-                    <a href="" class="btn--project py-[10px] px-[30px] rounded-full boder-none text-white " style=" background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);">Look it up</a>
+                    <a href="/projects/${dataHomePage.id}" class="btn--project py-[10px] px-[30px] rounded-full boder-none text-white btn-3" style=" background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);">Look it up</a>
                 </div>
             </div>
             `

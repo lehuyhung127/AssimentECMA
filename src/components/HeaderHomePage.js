@@ -17,7 +17,7 @@ export const HeaderHomepage = () => {
           <div class="header--menu">
             <ul class="head--menu--list space-x-4 flex list-none">
               <li><a href="/" class="header--menu--link ml-5 no-underline text-white text-[18px] font-extralight">HOME</a></li>
-              <li><a href="/skill" class="header--menu--link ml-5 no-underline text-white text-[18px] font-extralight">SKILL</a></li>
+              <li><a href="/projects" class="header--menu--link ml-5 no-underline text-white text-[18px] font-extralight">PROJECT</a></li>
               <li><a href="/aboutme" class="header--menu--link ml-5 no-underline text-white text-[18px] font-extralight">ABOUT</a></li>
               <li><a href="/contact" class="header--menu--link ml-5 no-underline text-white text-[18px] font-extralight">CONTACT</a></li>
             </ul>
